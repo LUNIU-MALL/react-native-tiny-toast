@@ -30,7 +30,7 @@
     "deprecated-react-native-prop-types": "^4.2.1",
     "prop-types": "latest",
     "react-native-iphone-x-helper": "1.2.1",
-    "react-native-root-siblings": "3.2.3"
+    "react-native-root-siblings": "^5.0.1"
   },
   "peerDependencies": {
     "react-native": ">=0.47.0"
